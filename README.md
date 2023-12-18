@@ -1,5 +1,7 @@
 # Curso_FreeCodeCamp_Web
-Arquivos das atividades do Curso Design Web Responsivo no curso FreeCodeCamp.
+
+Arquivos das atividades do Curso Design Web Responsivo da plataforma de cursos FreeCodeCamm.
+
 ![Captura de tela 2023-12-18 113205](https://github.com/SimonePenido/Curso_FreeCodeCamp_Web/assets/112627846/08f865d4-2974-4843-8be6-fd282e5ed972)
 
 # Curso de Design Web Responsivo - FreeCodeCamp
@@ -21,7 +23,7 @@ O repositório está organizado da seguinte forma:
 
 ### 3. Pasta "Cidade"
 
-- Esta pasta contém recursos adicionais utilizados durante o curso, como imagens, bibliotecas, ou referências importantes para a realização das atividades.
+- As variáveis CSS ajudam a organizar seus estilos e a reutilizá-los. Neste curso, haverá um arquivo de um céu na cidade.Trata-se de um exercício de como configurar variáveis CSS para poder reutilizá-las quando quiser.
 
 ### 4. Pasta "Desenho de Gato"
 
@@ -43,15 +45,15 @@ Neste curso, você criará a pintura de um gato. Você aprenderá a trabalhar co
 
 ### 8. Pasta "Magazine"
 
-- Esta pasta contém recursos adicionais utilizados durante o curso, como imagens, bibliotecas, ou referências importantes para a realização das atividades.
+- O CSS Grid possibilita o controle sobre as linhas e colunas do seu design de página da web. Neste arquivo, foi construido um artigo de revista, utilizando recursos CSS Grid, incluindo conceitos como linhas e colunas de grade.
 
 ### 9. Pasta "Pinguim"
 
-- Esta pasta contém recursos adicionais utilizados durante o curso, como imagens, bibliotecas, ou referências importantes para a realização das atividades.
+- É possível transformar elementos HTML para criar projetos atraentes que chamam a atenção do leitor, usando transformações para girar elementos, dimensiona-los e muito mais.Neste arquivo, foi criado um pinguim, usando transformações em CSS para posicionar e redimensionar as partes do pinguim, criando um plano de fundo animado para a página.
 
 ### 10. Pasta "Roda Gigante"
 
-- Esta pasta contém recursos adicionais utilizados durante o curso, como imagens, bibliotecas, ou referências importantes para a realização das atividades.
+- É possivel usar a animação em CSS para chamar a atenção para seções específicas da sua página e torná-la mais envolvente. Neste curso, foi construida uma roda-gigante, utilizando CSS para animar elementos, transformá-los e ajustar sua velocidade.
 
 ### 11. Pasta "Rotulo Nutricional"
 
@@ -61,17 +63,11 @@ Neste curso, você criará a pintura de um gato. Você aprenderá a trabalhar co
 
 Para acessar cada seção do curso, navegue pelas pastas correspondentes no repositório.
 
-Cada exercício pode conter seu próprio conjunto de instruções e recursos associados. Sinta-se à vontade para explorar e utilizar esses materiais conforme necessário.
+Cada exercício pode conter seu próprio conjunto de instruções e recursos associados.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar algo a este repositório, sinta-se à vontade para abrir um pull request ou propor mudanças.
 
-## Sobre
 
-Este repositório é mantido por [Seu Nome/Autor](link_do_perfil_do_autor), com base nas atividades realizadas no curso de Design Web Responsivo da plataforma FreeCodeCamp.
-
-Qualquer dúvida ou sugestão, não hesite em entrar em contato!
-
-**Divirta-se aprendendo!**
 
