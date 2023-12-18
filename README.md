@@ -1,6 +1,6 @@
 # Curso_FreeCodeCamp_Web
 
-Arquivos das atividades do Curso Design Web Responsivo da plataforma de cursos FreeCodeCamm.
+Arquivos das atividades do Curso Design Web Responsivo da plataforma FreeCodeCamm.
 
 ![Captura de tela 2023-12-18 113205](https://github.com/SimonePenido/Curso_FreeCodeCamp_Web/assets/112627846/08f865d4-2974-4843-8be6-fd282e5ed972)
 
